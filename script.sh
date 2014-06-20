@@ -2,5 +2,5 @@
 git add .
 git commit -m "initial"
 git push origin master
-wait PID
+#wait PID
 echo "hello"
